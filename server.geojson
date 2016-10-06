@@ -313,6 +313,25 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
+       },
+        
+       {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.86839,	-3.91697]
+        },
+        "properties": {
+          "Name": "Yvan Le Bras",
+          "Mail": "lebras.yvan@gmail.com",
+          "Affiliation": "French National Museum of Natural History & EnginesOn",
+          "Website": "",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+      }
       }
   ]
 }
